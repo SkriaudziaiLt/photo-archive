@@ -1,1 +1,34 @@
+### your site title here
 
+title: Skriaudziai.lt PhotoArchive
+github_username: chuckleplant
+description: > # this means to ignore newlines until "baseurl:"
+    Skriaudziai.lt PhotoArchive.
+email: info@skriaudziai.lt
+sass: 
+    style: compressed
+
+url: http://skriaudziai.lt
+
+owner:
+    disqus-shortname: sergiobasurco
+    name: Skriaudziai.Lt
+    email: info@skriaudziai.lt
+    github: SkriaudziaiLt
+    twitter: SkriaudziaiLt
+
+exclude:
+- README.md
+
+photo_dir:
+- img/albums
+
+include: 
+- _pages
+
+#Jekyll-Photo-Gallery Settings
+exiftag:
+ sources:
+   - img/albums #Set to location of photos
+
+destination: _deploy
