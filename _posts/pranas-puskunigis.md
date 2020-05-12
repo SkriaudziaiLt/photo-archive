@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pranas Puskunigis
-date: xxxx-xx-xx
+date: 2000-01-01
 icon: wpexplorer
-comments: true
+comments: false
 disqus_identifier: IndustrySoftware
 ---
 
