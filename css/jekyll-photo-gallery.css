@@ -1,0 +1,159 @@
+.photoCentre {
+    margin-top: 30px;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 70%;
+    float: left;
+    margin-right: 20px
+}
+
+.photoInfo-content-right {
+    margin-left: 20px;
+    float: right;
+}
+
+.photoPageContainer {
+    background-color:#131313;                
+    object-fit: fill;     
+    text-align: center;
+}
+
+
+.cc40-div{
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.photo-buttons{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;    
+    display: inline-block;
+    width: 100%;
+}
+
+.photo-buttons:hover .button-stripe-left,
+.photo-buttons:hover .button-stripe-right{
+    display: block;
+}
+
+.button-stripe-left,
+.button-stripe-right{
+    display: none;
+}
+
+
+.photo-buttons img{
+    max-height: 80vh;
+    max-width: 100%;    
+}
+
+
+.button-stripe-right{
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 30%;
+}
+
+.button-stripe-left{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 30%;
+}
+
+.but-container{    
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+
+.arrow-icon{
+    position: absolute;
+    top: 50%;
+    font-size: 50px;
+    transform: translate(0, -50%);
+    text-shadow: 0 0 1px rgba(61, 61, 61, 0.808);
+    
+}
+
+.arrow-icon{
+    text-decoration: none !important;
+}
+
+.arrow-left{
+left: 15px;
+}
+.arrow-right{
+right: 15px;
+}
+
+.arrow-icon .far{
+    color: rgba(253, 253, 253, 1.0);
+}
+
+.arrow-icon .fas,
+.button-stripe-right:hover .far,
+.button-stripe-left:hover .far {
+    display: none;    
+}
+
+.button-stripe-right:hover .fas,
+.button-stripe-left:hover .fas {
+    display: inline;
+    font-size: 50px;   
+    text-decoration: none !important;
+    color: rgba(255, 255, 255, 1.0);
+}
+
+.button-stripe-left,
+.button-stripe-right {
+    cursor: pointer;
+}
+
+.ion-iconfont{
+    font-size:19px;
+    position:relative;
+    top:4px;
+}
+
+.gmap-photo{
+    border-radius: 4px 4px 4px 4px;
+    object-fit: cover;
+    overflow: hidden;
+    flex-grow: 1;
+   /* max-width: 100%;    */
+    width: 100%;
+}
+
+@media only screen and (max-width: 880px) {
+    .gmap-photo {    
+        max-width: 100%;    
+        width: 100%;
+    }
+}
+
+
+div.photoInfo2 ul {
+    list-style-type: none;
+    margin-left: 0px;
+}
+
+div.photoInfo2 li {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+div.photoInfo2 hr {
+    padding-bottom: 0px;
+    height: 0px;
+}
