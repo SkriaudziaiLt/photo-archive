@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: Pranas Puskunigis
+date: xxxx-xx-xx
+icon: wpexplorer
+comments: true
+disqus_identifier: IndustrySoftware
+---
 
 
 !["Pranas Puskunigis"](../img/posts/pranas-puskunigis.jpg)

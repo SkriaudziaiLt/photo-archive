@@ -1,3 +1,29 @@
+---
+layout: default
+---
+
+<div class="home">
+    
+    <h1 class="page-heading">Posts</h1>
+    
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            
+            
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ul>
+    
+    
+    
+</div>
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SkriaudziaiLt/skriaudziai.lt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
