@@ -31,6 +31,10 @@ photo_dir:
 include: 
 - _pages
 
+collections:
+  - people
+
+
 #Jekyll-Photo-Gallery Settings
 exiftag:
  sources:
