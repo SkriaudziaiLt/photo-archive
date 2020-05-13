@@ -8,6 +8,7 @@ email: info@skriaudziai.lt
 
 baseurl: /photo-archive
 pageurl: https://skriaudziailt.github.io/photo-archive
+imgurl: https://github.com/SkriaudziaiLt/photo-archive/blob/master/img/posts
 
 sass: 
     style: compressed
