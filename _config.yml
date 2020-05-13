@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Skriaudziai.lt PhotoArchive.
 email: info@skriaudziai.lt
 
-baseurl: skriaudziailt.github.io/photo-archive
+baseurl: /photo-archive
 
 sass: 
     style: compressed
