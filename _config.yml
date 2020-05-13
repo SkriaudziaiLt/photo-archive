@@ -34,6 +34,7 @@ include:
 collections:
   people:
     output: true
+    sort_by: title
 
 
 #Jekyll-Photo-Gallery Settings
