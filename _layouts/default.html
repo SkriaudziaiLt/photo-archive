@@ -19,8 +19,23 @@
 
   <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
   <script src="{{ site.url }}/js/plugins/jquery.justifiedGallery.min.js"></script>
+  <script>
+  
+  $(function() {
+  
+    $.each($( "img[src-gp]" ), function( index, value ) {
+  
+        $(this).attr('src', $(this).attr('src-gp') );
+  
+    });   
+  
+  });
+  
+ 
+  
+  </script>
   
   
+
   
 </html>
-
