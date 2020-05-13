@@ -4,7 +4,8 @@ title: Pranas Puskunigis
 permalink: /pranas-puskunigis/
 ---
 
-#{{ site.github.url }}
+#test
+{{ site.imgurl }}
 
 
 ![Pranas Puskunigis](/img/posts/pranas-puskunigis.jpg | relative_url)
