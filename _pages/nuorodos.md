@@ -22,4 +22,5 @@ permalink: /nuorodos/
 * [Skriaudžių šv. Lauryno parapija](https://www.facebook.com/skriaudziu.parapija/)skriau
 * [Bendruomenė](https://www.facebook.com/skriaudziu.bendruomene)
 * [Skriaudžių kaimo grupė](https://www.facebook.com/groups/2059447911041316/)
+* [Skriaudžių biblioteka](https://www.facebook.com/skriaudziubiblioteka/)
 * [Skriaudžiai.lt](https://www.facebook.com/skriaudziai/)
