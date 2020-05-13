@@ -4,8 +4,6 @@ comments: true
 ---
 <article class="post">
 
-# Person tpl    
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
@@ -14,10 +12,13 @@ comments: true
     {{ content }}
   </div>
   
+-------------  
 {% include people.html %}
+-------------
   
-  {% include disqus.html %}
-  
-  {% if page.comments %} {% include disqus.html %} {% endif %}
+{% include disqus.html %}
+
+{% if page.comments %} {% include disqus.html %} {% endif %}
+
 
 </article>
