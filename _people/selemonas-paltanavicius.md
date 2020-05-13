@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: Selemonas Paltanavičius
 permalink: /selemonas-paltanavicius/
 ---

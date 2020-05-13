@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: Kazys Paltanavičius
 permalink: /kazys-paltanavicius/
 ---

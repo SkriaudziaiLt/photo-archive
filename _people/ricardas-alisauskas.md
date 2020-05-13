@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: Ričardas Ališauskas
 permalink: /ricardas-alisauskas/
 ---

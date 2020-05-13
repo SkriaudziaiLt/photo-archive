@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: Rasa Juocevičienė (Orinaitė)
 permalink: /rasa-juoceviciene-orinaite/
 ---

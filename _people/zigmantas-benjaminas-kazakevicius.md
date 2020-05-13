@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: Zigmantas Benjaminas Kazakevičius
 permalink: /zigmantas-benjaminas-kazakevicius/
 ---

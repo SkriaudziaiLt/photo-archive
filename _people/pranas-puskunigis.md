@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: Pranas Puskunigis
 permalink: /pranas-puskunigis/
 ---

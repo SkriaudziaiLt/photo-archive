@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: Vytautas Alenskas
 permalink: /vytautas-alenskas/
 ---
