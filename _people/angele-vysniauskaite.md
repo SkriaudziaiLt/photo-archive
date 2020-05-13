@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: page
 title: Angelė Vyšniauskaitė
 permalink: /angele-vysniauskaite/
 ---
