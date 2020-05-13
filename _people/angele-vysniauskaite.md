@@ -13,6 +13,6 @@ Etnografė Angelė Vyšniauskaitė – gimė 1919 m. gegužės mėn. 16 d. Skria
 
   <div class="people-list">
 {% for page in site.people %}
-* [{{page.title}}]({{ page.url | prepend: site.baseurl }})
+* [{{page.title}}]({{ page.url | prepend: site.baseurl }}) x
 {% endfor %}
   </div>
