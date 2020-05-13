@@ -4,15 +4,8 @@ title: Pranas Puskunigis
 permalink: /pranas-puskunigis/
 ---
 
-#test
-{{ site.imgurl }}
 
-
-<!-- {% if site.imgurl %} -->
-![Pranas Puskunigis]({{site.pageurl}}/img/posts/pranas-puskunigis.jpg)
-<!-- {% else %} -->
-![Pranas Puskunigis](/img/posts/pranas-puskunigis.jpg)
-<!-- {% endif %} -->
+<img alt="Pranas Puskunigis" src="/img/posts/pranas-puskunigis.jpg" src_gp="{{site.pageurl}}/img/posts/pranas-puskunigis.jpg">
 
 Pranas Puskunigis (1860 m. liepos 16 d. – 1946 m. lapkričio 27 d.) – pedagogas, vienas žymiausių tradicinių kanklių ir kankliavimo puoselėtojų.
 
