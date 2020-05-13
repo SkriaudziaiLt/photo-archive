@@ -1,10 +1,7 @@
 ---
-layout: post
+layout: page
 title: Pranas Puskunigis
-date: 2000-01-01
-icon: wpexplorer
-comments: false
-disqus_identifier: IndustrySoftware
+permalink: /pranas-puskunigis/
 ---
 
 
