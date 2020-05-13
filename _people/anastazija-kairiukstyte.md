@@ -1,5 +1,5 @@
 ---
-layout: paople
+layout: page
 title: Anastazija Kairiūkštytė
 permalink: /anastazija-kairiukstyte/
 ---
