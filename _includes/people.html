@@ -1,3 +1,5 @@
+<ul>
 {% for page in site.people %}
-* [{{page.title}}]({{ page.url | prepend: site.baseurl }})
+<li><a href="{{ page.url | prepend: site.baseurl }}">{{page.title}}</li>
 {% endfor %}
+</ul>
