@@ -30,7 +30,7 @@ photo_dir:
 
 include: 
 - _pages
-- _famous_people
+- _people
 
 #Jekyll-Photo-Gallery Settings
 exiftag:
