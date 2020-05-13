@@ -19,7 +19,7 @@ permalink: /nuorodos/
 
 # Facebook puslapiai/paskyros
 * [Skriaudžių pagrindinė mokykla](https://www.facebook.com/Skriaud%C5%BEi%C5%B3-pagrindin%C4%97-mokykla-170457656298728/?ref=br_rs)
-* [Skriaudžių šv. Lauryno parapija](https://www.facebook.com/skriaudziu.parapija/)skriau
+* [Skriaudžių šv. Lauryno parapija](https://www.facebook.com/skriaudziu.parapija/)
 * [Bendruomenė](https://www.facebook.com/skriaudziu.bendruomene)
 * [Skriaudžių kaimo grupė](https://www.facebook.com/groups/2059447911041316/)
 * [Skriaudžių biblioteka](https://www.facebook.com/skriaudziubiblioteka/)

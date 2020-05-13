@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Skriaudziai.lt PhotoArchive
+title: Skriaudziai.lt Archyvas
 github_username: SkriaudziaiLt
 description: > # this means to ignore newlines until "baseurl:"
-    Skriaudziai.lt PhotoArchive.
+    Skriaudziai.lt Archyvas.
 email: info@skriaudziai.lt
 
 baseurl: /photo-archive
